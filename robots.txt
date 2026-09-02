@@ -1,0 +1,31 @@
+# robots.txt for coloradomedicareenrollment.com
+
+User-agent: *
+Allow: /
+Sitemap: https://coloradomedicareenrollment.com/sitemap.xml
+
+# AI crawlers — explicitly allowed for GEO (Generative Engine Optimization)
+User-agent: GPTBot
+Allow: /
+
+User-agent: OAI-SearchBot
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: CCBot
+Allow: /
+
+User-agent: Bytespider
+Allow: /
+
+# LLM content files
+# llms.txt: https://coloradomedicareenrollment.com/llms.txt
+# llms-full.txt: https://coloradomedicareenrollment.com/llms-full.txt
