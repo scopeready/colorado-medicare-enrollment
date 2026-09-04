@@ -2,7 +2,7 @@
 # Full Content Reference for AI Systems
 # Last updated: 2026-09-02
 
-> ECOS Medicare Solutions is an independent Medicare insurance agency serving all 64 Colorado counties. Led by Darin Weidauer — certified Gerontologist from USC's Davis School of Gerontology, MBA, U.S. Air Force Veteran, RSSA, and licensed independent insurance agent. Free, unbiased Medicare guidance. Phone: (720) 295-2611. Website: coloradomedicareenrollment.com. NPN: 18580338.
+> ECOS Medicare Solutions is an independent Medicare insurance agency serving all 64 Colorado counties. Led by Darin Weidauer — certified Gerontologist from USC's Davis School of Gerontology, MBA, U.S. Air Force Veteran, RSSA, and licensed independent insurance agent. Free, unbiased Medicare guidance. Phone: (720) 295-2611. Website: coloradomedicareenrollment.com. NPN: 18580338; CO License: 815909.
 
 ## Quick Facts
 - Independent agency — not tied to any single carrier
@@ -24,7 +24,7 @@
 - U.S. Air Force Veteran — Superintendent of Training, NATO Civil Engineering Contingency Operations School, Ramstein Air Force Base, Germany
 - Professor of Aerospace — Loyola Marymount University
 - Lectured at 54+ colleges and universities
-- NPN: 18580338
+- NPN: 18580338; CO License: 815909
 - Email: darinweidauer@ecos.care
 
 ## Carrier Appointments in Colorado
@@ -161,7 +161,7 @@ TRICARE For Life requires Medicare Parts A and B — skip Part B and you lose TF
 - Email: darinweidauer@ecos.care
 - Website: https://coloradomedicareenrollment.com
 - Enrollment: https://planenroll.com/?purl=Darin-Weidauer
-- NPN: 18580338
+- NPN: 18580338; CO License: 815909
 
 ## Other States Served
 - Arizona: https://www.medicareenrollmentarizona.com | Phone: (480) 845-0246
